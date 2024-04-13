@@ -319,3 +319,41 @@ body{
     background-color: #088178;
     border: 1px solid #088178;
 }
+
+/* banner3 */
+
+#banner3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0 80px;
+}
+#banner3 .banner-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    background-image: url("./img/banner/b7.jpg");
+    min-width:30%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+#banner3 .banner-box:nth-child(2){
+    background-image: url("./img/banner/b4.jpg");
+}
+#banner3 .banner-box:nth-child(3){
+    background-image: url("./img/banner/b18.jpg");
+}
+#banner3 h2{
+    color: #fff;
+    font-weight: 900;
+    font-size: 22px;
+}
+#banner3 h3{
+    color: #ec544e;
+    font-weight: 800;
+    font-size: 15px;
+}
