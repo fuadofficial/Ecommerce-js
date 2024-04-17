@@ -127,7 +127,7 @@ body {
 /* Home page */
 
 #hero {
-    background-image: url('./img/hero4.png');
+    background-image: url('../img/hero4.png');
     width: 100%;
     height: 90vh;
     background-position: top 25% right 0;
@@ -148,7 +148,7 @@ body {
 }
 
 #hero button {
-    background-image: url('./img/button.png');
+    background-image: url('../img/button.png');
     background-color: transparent;
     color: #088178;
     border: 0;
@@ -299,7 +299,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-image: url("./img/banner/b2.jpg");
+    background-image: url("../img/banner/b2.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -340,7 +340,7 @@ body {
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-    background-image: url("./img/banner/b17.jpg");
+    background-image: url("../img/banner/b17.jpg");
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -349,7 +349,7 @@ body {
 }
 
 #sm-banner .banner-box:nth-child(2) {
-    background-image: url("./img/banner/b10.jpg");
+    background-image: url("../img/banner/b10.jpg");
 }
 
 #sm-banner h4 {
@@ -390,7 +390,7 @@ body {
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-    background-image: url("./img/banner/b7.jpg");
+    background-image: url("../img/banner/b7.jpg");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -400,11 +400,11 @@ body {
 }
 
 #banner3 .banner-box:nth-child(2) {
-    background-image: url("./img/banner/b4.jpg");
+    background-image: url("../img/banner/b4.jpg");
 }
 
 #banner3 .banner-box:nth-child(3) {
-    background-image: url("./img/banner/b18.jpg");
+    background-image: url("../img/banner/b18.jpg");
 }
 
 #banner3 h2 {

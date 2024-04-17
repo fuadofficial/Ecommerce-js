@@ -1,7 +1,7 @@
 /* this is blog css page  */
 
 .blog-header {
-    background-image: url('./img/banner/b19.jpg');
+    background-image: url('../img/banner/b19.jpg');
 }
 
 #blog {
